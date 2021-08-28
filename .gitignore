@@ -21,4 +21,5 @@ pom.xml.asc
 .hgignore
 .hg/
 out
-temp      
+temp
+resources/public/js
